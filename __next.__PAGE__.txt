@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[67458,["/Data_Logger_CycloWatt_Side_by_Side/_next/static/chunks/0v90e52bsza-c.js","/Data_Logger_CycloWatt_Side_by_Side/_next/static/chunks/0jf84cixr0cbb.js","/Data_Logger_CycloWatt_Side_by_Side/_next/static/chunks/0xoiei23rah63.js"],"BlePowerLogger"]
+3:I[97367,["/Data_Logger_CycloWatt_Side_by_Side/_next/static/chunks/0v90e52bsza-c.js","/Data_Logger_CycloWatt_Side_by_Side/_next/static/chunks/0jf84cixr0cbb.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/Data_Logger_CycloWatt_Side_by_Side/_next/static/chunks/0xoiei23rah63.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"oRK1dU84CajY3HMxVSSj0"}
+5:null
